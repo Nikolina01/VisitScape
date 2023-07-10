@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">firstApp</string>
+    <string name="button2">Let's Visit Croatia</string>
+    <string name="logo">App logo</string>
+    <string name="firstText">One</string>
+    <string name="textView">View</string>
+    <string name="textView2">Worth</string>
+    <string name="textView3">a</string>
+    <string name="textView4">Thousand Words</string>
+    <string name="textView5">Dubrovnik</string>
+    <string name="textView6">Zadar</string>
+    <string name="textView7">Pula</string>
+    <string name="textView8">Zagreb</string>
+    <string name="textView9">Vinkovci</string>
+    <string name="dubrovnik">Dubrovnik</string>
+    <string name="ODubrovniku">Drevni grad s uskim ulicama i visokim zidinama, ali i sa otvorenim horizontom, širokim poput horizonta otvorenog more - kao horizonte otvorenog mora - mora koje je kroz povijest omogućilo Dubrovniku vezu sa cijelim svijetom</string>
+    <string name="details">More Details</string>
+    <string name="about">O Dubrovniku</string>
+    <string name="AboutDubrovnik">Dubrovnik je prekrasan povijesni grad smješten na obali Jadranskog mora, na jugu Hrvatske. Poznat je po svojoj bogatoj kulturnoj baštini, očaravajućim povijesnim znamenitostima i predivnom prirodnom okruženju.</string>
+    <string name="znamenitosti">Znamenitosti</string>
+    <string name="znam1">Stari dio grada</string>
+    <string name="starigrad_tekst">Stari dio grada Dubrovnika je u samom srcu grada i glavno mjesto susreta mještana. Uvršten je u UNESCO-ov popis Svjetske kulturne baštine 1979. i od tada je postao omiljena ljetna destinacija za turiste iz cijelog svijeta. Stari grad je okružen zidinama koje su visoke skoro 25 metara jer su stoljećima prije služile kao zaštita od turskih osvajača. Stvar koju definitivno ne smijete propustiti je glavna ulica, Stradun, gdje ćete vidjeti većinu znamenitosti, kao što su palača Sponza i crkva sv. Vlaha, zaštitnika Dubrovnika. Zanimljiva činjenica je da skoro svake godine Stradun dospije u top 10 destinacija za doček Nove godine, pa tako imate razlog za posjetiti Dubrovnik tijekom zime također. </string>
+    <string name="znam2">Dubrovačke zidine</string>
+    <string name="zidine_tekst">Ovo ne smijete nipošto propustiti tijekom vašeg boravka u Dubrovniku jer gradske zidine su, možemo reći, pravi simbol ovoga grada. Zidine su se neprekidno gradile sedam stoljeća, sve do 1660. kada je zadnja tvrđava izgrađena, bastion sv. Stjepana. Postoji ukupno 16 tvrđava, ali one najistaknutije su smještene na svakoj od 4 glavne točke zidina – tvrđava Minčeta, tvrđava Revelin, tvrđava sv. Ivana i najpoznatija, tvrđava Lovrijenac, sagrađena na strmoj litici koja doseže 37 metara iznad površine mora. Neki od vas možda je prepoznaju kao Crvenu utvrdu iz Igre prijestolja. Za obilazak zidina će vam trebati od 1 do 3 sata, ovisno o vašem tempu, fotografiranju i gužvi općenito, pogotovo tijekom ljeta. Nemojte zaboraviti ponijeti puno vode sa sobom jer šetnja može biti umarajuća pod vrućim ljetnim suncem. Ulaznica za gradske zidine će vas koštati 150 kuna, dok djeca i studenti plaćaju 50kn.</string>
+    <string name="znam3">Srđ</string>
+    <string name="srdj_tekst">Žičara Srđ je izgrađena davne 1969. i povezivala je naselje Ploče s brdom i bila je prva i jedina žičara na obali Jadranskog mora u to vrijeme. Tijekom Domovinskog rata u Hrvatskoj bila je potpuno uništena i 2010. obnovljena i vraćena natrag u funkciju. Vožnja do Srđa traje oko 4 minute i jednom kada dođete gore, imati ćete najspektakularniji panoramski pogled na Dubrovnik. Na vrhu žičare nalazi se kafić s brzom hranom i restoran s predivnom terasom koja gleda na Dubrovnik, a možete čak i kupiti neke suvenire u maloj prodavaonici. Povratna karta za žičaru je 130 kuna.</string>
+    <string name="specijaliteti">Specijaliteti</string>
+    <string name="hrana1">Šporki makaruli</string>
+    <string name="hrana1_tekst">Kuhana tjestenina (makaruli) začinjena svinjskom mašću i cimetom (kanjelom) poslužuje se uz umak spremljen od goveđeg ili junećeg mesa i rajčice, peršina, češnjaka i neizostavnog crnog vina. Za potpuni doživljaj preporučeno je na kraju staviti i sir ribanac.</string>
+    <string name="hrana2">Rožata</string>
+    <string name="hrana2_tekst">Krema je od jaja sa preljevom od karamele a poslužuje se najčešće uz slatki liker ili voće. Stari dubrovčani potvrdit će vam da je najoriginalnija ona koja se pravi sa dubrovačkim likerom od ruže.</string>
+    <string name="title_activity_4">Activity4</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="zadar">Zadar</string>
+    <string name="OZadru">Zadar je poput muzeja na otvorenomu, u kojemu njegovom raskošnom i stalnom muzejskom postavom vode živopisne ulice i uske uličice.</string>
+    <string name="about2">O Zadru</string>
+    <string name="aboutP">Grad star tri tisućljeća, prepun povijesnih znamenitosti kojeg je National Geographic Traveler svrstao među 10 najatraktivnijih turističkih destinacija na svijetu za 2017.</string>
+    <string name="aboutZg">Grad Zagreb, smješten na zemljopisnom, kulturnom, povijesnom i političkom sjecištu istoka i zapada Europe, glavni grad Hrvatske, spaja kontinentalni i mediteranski duh u osebujnu cjelinu.</string>
+    <string name="aboutVk">Kao naseljeno područje, Vinkovci u kontinuitetu postoje duže od 8200 godina što ih čini najstarijim gradom u Europi. Taj „europski Jerihon“, kako ga nazivaju, uistinu krije tajne nevjerojatno duge povijesti.</string>
+    <string name="zd"><![CDATA[Grad romantike i ljubavi, mjesto strasti i duha! Ovo je grad koji se ne ustručava istraživati nove oblike umjetnosti i nove ideje kako bi svoj izvanredan položaj i okruženje, svoju veličanstvenu građu, dodatno obogatio. Zadar je istovremeno i  mirna zajednica i dinamičan moderan centar koji svakoga dočekuje raširenih ruku i ostavlja svoj trag na svakom zaljubljenom posjetitelju!]]></string>
+    <string name="znamzd">Morske orgulje</string>
+    <string name="MorskeOrguljeTEKST"><![CDATA[Morske orgulje, izvedene su po projektu arhitekta Nikole Bašića, smještene su u blizini novog pristaništa za cruisere, u sklopu zadarske rive, te su prepoznatljive kao posebno oblikovana obala u nekoliko redova stepenica koje se spuštaju prema moru. Stepenice se protežu na sedamdesetak metara obale, ispod kojih je, na razini najniže oseke mora, okomito na obalu ugrađeno 35 cijevi različitih dužina, promjera i nagiba, koje se koso uzdižu do obalnog popločanja i završavaju u kanalu (servisnom hodniku). Tu se na cijevima nalaze LABIUMI (zviždaljke), koje sviraju 7 akorda od 5 tonova. Iznad kanala su performirane kamene stepenice kroz koje izlazi zvuk, morem potisnut zrak.]]></string>
+    <string name="znam2zd">Pozdrav Suncu</string>
+    <string name="PozSuncuTEKST"><![CDATA[Nalazi se na Istarskoj obali, na najzapadnijoj točki zadarskog poluotoka, neposredno uz Morske orgulje. S ovog se mjesta pruža pogled na Zadarski kanal, otoke i na zalazak Sunca, čija je ljepota u Zadru posebno poznata. Pozdrav Suncu sastoji se od tri stotine višeslojnih staklenih ploča postavljenih u istoj razini s kamenim popločenjem rive u obliku kruga promjera 22 metra. Ispod staklenih provodnih ploča nalaze se fotonaponski solarni moduli preko kojih se ostvaruje simbolična komunikacija s prirodom, odnosno sa Suncem. Istovremeno sa zalaskom Sunca uključuju se i rasvjetni elementi ugrađeni u krugu te po posebno programiranom scenariju proizvode iznimno dojmljivu svjetlosnu igru u ritmu valova i zvuka Morskih orgulja.]]></string>
+    <string name="speczd">Maraschino</string>
+    <string name="picezdTEKST">Originalni zadarski liker Maraschino priznat diljem svijeta. Prepoznatljiv je po karakterističnom slatkom okusu i aromatičnom mirisu. Priprema se po tradicionalnoj recepturi koju su stvorili ljekarnici dominikanskog samostana početkom 16. stoljeća.</string>
+    <string name="pula">Pula</string>
+    <string name="aboutPula">O Puli</string>
+    <string name="PulaPu">Najveći grad na istarskom poluotoku nudi raznolike atrakcije kulturnim zanesenjacima. Bogati itinerar po pulskoj tritisućljetnoj prošlosti, koja potvrdu nalazi na svakom koraku u starogradskoj jezgri, započinje i završava rimskim amfiteatrom.</string>
+    <string name="znamPu">Amfiteatar</string>
+    <string name="znamPUTekst"><![CDATA[Najveći je i najsačuvaniji spomenik antičkog graditeljstva u Hrvatskoj. Uspoređujući ga s više od 200 rimskih amfiteatara, plašt pulskog amfiteatra s četiri stubišna tornja je najsačuvaniji i rijedak primjer jedinstvenih tehničkih i tehnoloških rješenja. Po veličini zauzima 6. mjesto među rimskim amfiteatrima na svijetu, te je jedini u svijetu čija su sva tri rimska arhitektonska reda u potpunosti očuvana. Pulski se amfiteatar stavlja uz bok Koloseju u Rimu, Areni u Veroni, amfiteatrima u Pompejima, Nimesu i Arlesu u Francuskoj i El Džemu u Tunisu. Iznenađujuće je da Arena kao neosporno kulturološko blago Hrvatske, ali i svijeta još nije na Popisu svjetske baštine UNESCO-a. Hrvatska je Arenu dva puta kandidirala za Listu, a potom povukla kandidaturu.]]></string>
+    <string name="brijuni">Brijuni</string>
+    <string name="brijuniTEKST">Istarsko otočje i nacionalni park u hrvatskom dijelu sjevernog Jadranskog mora. Sastoje se od dva otoka i dvanaest otočića.</string>
+    <string name="fuzii">Fuži sa tartufima</string>
+    <string name="tekst">Ako posjećujete Istru nikako ne propustite kušati tartufe - jedne od najaromatičnijih i najcjenjenijih gljiva. Tartufi se mogu spremati na razne načine, no jedan od najboljih je u kombinaciji sa pršutom i fužima, istarskom tjesteninom spremljenom od domaćeg tijesta. Uz to dodajte i vinsku kartu ponajboljih istarskih vinarija i doživjet ćete potpuni istarski gurmanski užitak.</string>
+    <string name="supica">Istarska supica</string>
+    <string name="tekstic">Osim iznimnog okusa, istarska supica zanimljiva je i zbog svog specifičnom posluživanja u bukaleti - zemljanom vrču. Ovo staro tradicionalno istarsko jelo spravlja se od vina terana ili borgonje, maslinovog ulja, papra i prepečenog kruha. Uživati u ovoj deliciji možete u većini istarskih konoba.</string>
+    <string name="zagreb">Zagreb</string>
+    <string name="o_zagrebu">O Zagrebu</string>
+    <string name="zg"><![CDATA[Zagreb je glavni grad Republike Hrvatske i najveći grad u Hrvatskoj po broju stanovnika. Grad Zagreb je kao glavni grad Hrvatske posebna teritorijalna, upravna i samoupravna jedinica. Šire područje grada okuplja više od milijun stanovnika. Povijesno gledajući, grad Zagreb izrastao je iz dvaju naselja na susjednim brežuljcima, Gradeca i Kaptola, koji čine jezgru današnjega grada, njegovo povijesno središte (Gornji i dio Donjega Grada).]]></string>
+    <string name="zanimljivosti">Zanimljivosti</string>
+    <string name="gornji_grad">Gornji Grad</string>
+    <string name="ggtekst"><![CDATA[Gornji grad ili Gradec je povijesna jezgra Zagreba. Zasnovana u srednjem vijeku, sve do 19. stoljeća činila je, zajedno s Kaptolom, središnje urbanizirano područje grada Zagreba. Tijekom vremena su ondje izgrađene brojne zgrade kojima se oblikovao njezin današnji izgled. Glavni trg Gornjega grada je Trg sv. Marka, nekad mjesto trgovanja, a danas političko sjedište Hrvatske, sa zgradama Hrvatskoga sabora, Vlade i Gradske skupštine.]]></string>
+    <string name="zagreba_ka_katedrala">Zagrebačka Katedrala</string>
+    <string name="zgkatTEKST"><![CDATA[Dominira svojim položajem u vizuri ne samo Kaptola već čitavoga grada. Smatra se najvišom građevinom u Hrvatskoj. Prvotno srednjovjekovna katedrala dobila je svoj neogotički izgled nakon potresa 1880., u velikoj obnovi (1880. – 1902.) pod vodstvom arhitekata Hermanna Bolléa i Friedricha von Schmidta. ]]></string>
+    <string name="zagreba_ki_odrezak">Zagrebački odrezak</string>
+    <string name="zgodrezakTEKST">Zagrebački odrezak je zapravo pohani teleći odrezak punjen šunkom i rastopljenim sirom te predstavlja raskošniju verziju poznatog bečkog jela Wiener Schnitzel, pohanog telećeg odreska bez ikakvih posebnih dodataka, zvanog jednostavno bečki.</string>
+    <string name="vinkovci">Vinkovci</string>
+    <string name="o_vinkovcima">O Vinkovcima</string>
+    <string name="vk">Vinkovci nisu samo još jedan slavonski grad u kojem ćete se diviti baroknoj gradnji, voziti bicikl, šetati uz rijeku i uživati u obilatoj tradicijskoj kuhinji. Na ovom području život traje nevjerojatnih 8.000 godina bez prestanka, a potvrdu tome otkrit ćete na svakom koraku.</string>
+    <string name="vkj1">Vinkovačke jeseni</string>
+    <string name="vkjtekst">Vinkovačke jeseni, tradicijski su hrvatski folklorni festival u Vinkovcima, najstarija i najveća europska manifestacija tradicijske kulture. Prve Vinkovačke jeseni održane su u rujnu 1966., te su ubrzo nakon toga postale jedan od najpoznatijih festivala ovakve vrste u cijeloj Hrvatskoj.</string>
+    <string name="fi_paprika">Fiš paprikaš</string>
+    <string name="fii">Jarko crveno ljuto jelo pripremljeno s velikim količinama ljute paprike i šarana ili miješane riječne ribe.</string>
+
+
+</resources>
